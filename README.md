@@ -12,4 +12,4 @@ Leveraging our current state-of-the-art and existing technologies, creating soft
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-candeloro)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-candeloro&count_private=true&hide=issues,contribs&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
