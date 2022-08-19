@@ -9,3 +9,7 @@ Leveraging our current state-of-the-art and existing technologies, creating soft
 #### How to reach me 📫
 - 👥 [LinkedIn](https://www.linkedin.com/in/ettore-candeloro-900081162/)
 - 📧 candeloroettore@gmail.com
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-candeloro)](https://github.com/anuraghazra/github-readme-stats)
