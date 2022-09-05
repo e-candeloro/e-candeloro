@@ -6,6 +6,31 @@
 ####  My Vision🌄
 Leveraging our current state-of-the-art and existing technologies, creating software products that can help the world while interacting with like-minded people who share this vision, learning together.
 
+#### Technologies I'm learning/using 🛠🧰
+- <details>
+  <summary>Python</summary>
+  
+  - Numpy
+  - Pandas & Sci-Kit Learn
+  - Pytorch
+  - OpenCV
+  - Gurobipy
+  - Flask
+  - Django
+</details>
+
+- <details>
+  <summary>JavaScript</summary>
+  
+  - JQuery
+  - React
+</details>
+
+- HTML + CSS
+- C
+- Git & Git-Hub
+
+
 #### How to reach me 📫
 - 👥 [LinkedIn](https://www.linkedin.com/in/ettore-candeloro-900081162/)
 - 📧 candeloroettore@gmail.com
