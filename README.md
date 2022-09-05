@@ -27,6 +27,7 @@ Leveraging our current state-of-the-art and existing technologies, creating soft
 </details>
 
 - HTML + CSS
+- ROS
 - C
 - Git & Git-Hub
 
