@@ -4,7 +4,7 @@
 - 📚 I'm currently learning the topics of AI, Machine & Deep Learning, Distributed Intelligent Systems, Robotics, IoT, Web Development and User Experience Design
 
 ####  My Vision🌄
-Leveraging our current state-of-the-art and existing technologies, creating software products that can help the world while interacting with like-minded people who share this vision, learning together.
+Leveraging our current state-of-the-art and existing technologies, creating products that can help the world while interacting with like-minded people who share this vision, learning together.
 
 #### Technologies I'm learning/using 🛠🧰
 - <details>
