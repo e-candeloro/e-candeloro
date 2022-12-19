@@ -39,3 +39,5 @@ Leveraging our current state-of-the-art and existing technologies, creating prod
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-candeloro&count_private=true&hide=issues,contribs&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=e-candeloro&color=blue)
