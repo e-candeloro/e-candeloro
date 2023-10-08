@@ -6,6 +6,9 @@
 ####  My Vision🌄
 Leveraging our current state-of-the-art and existing technologies, creating products that can help the world while interacting with like-minded people who share this vision, learning together.
 
+#### My personal website + curriculum 🌐📃
+👉[Personal Website](https://ettorecandeloro.me)
+
 #### Technologies I'm learning/using 🛠🧰
 #### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
