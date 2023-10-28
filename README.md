@@ -3,7 +3,7 @@
 - 👨‍🎓 I’m a Computer Engineering M.Sc. student at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
 - 📚 I'm currently learning the topics of AI, Machine & Deep Learning, Data Analysis, Distributed Intelligent Systems, Robotics, IoT, Web Development, User Experience Design and Entrepreneurship.
 
-####  My Vision🌄
+####  My Mission🌄
 Leveraging our current state-of-the-art and existing technologies, creating products that can help the world while interacting with like-minded people who share this vision, learning together.
 
 #### My personal website + curriculum 🌐📃
