@@ -1,6 +1,6 @@
 #### Hi, I'm Ettore 👋
 
-- 👨‍🎓 I’m a Computer Engineering M.Sc. student at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
+- 👨‍🎓 I’m a Computer Engineering M.Sc. graduate at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
 - 📚 I'm currently learning the topics of AI, Machine & Deep Learning, Data Analysis, Distributed Intelligent Systems, Robotics, IoT, Web Development, User Experience Design and Entrepreneurship.
 
 ####  My Mission🌄
