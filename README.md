@@ -1,13 +1,15 @@
-#### Hi, I'm Ettore 👋
+### Hi, I'm Ettore 👋
 
-- 👨‍🎓 I’m a Computer Engineering M.Sc. graduate at the University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
-- 📚 I'm currently learning the topics of AI, Machine & Deep Learning, Data Analysis, Distributed Intelligent Systems, Robotics, IoT, Web Development, User Experience Design and Entrepreneurship.
+- 👨‍🔬 **Research Fellow in AI Medical Imaging** at [AImageLab](https://aimagelab.ing.unimore.it/imagelab/), University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
+- 👨‍💻 **Freelance Developer/Consultant** collaborating with various companies in Emilia Romagna, Italy.
+- 👨‍🎓 **M.Sc in Computer Engineering** with a specialization in AI Engineering from [UNIMORE](https://international.unimore.it/).
+- 📚 Currently exploring **AI, Machine Learning, Deep Learning, Data Analysis, Distributed Intelligent Systems, Robotics, IoT, Web Development, User Experience Design, and Entrepreneurship**.
 
-####  My Mission🌄
-Leveraging our current state-of-the-art and existing technologies, creating products that can help the world while interacting with like-minded people who share this vision, learning together.
+### My Mission 🌄
+Leverage state-of-the-art technologies to create impactful products, while collaborating and learning with like-minded individuals who share a similar vision.
 
-#### My personal website + curriculum 🌐📃
-👉[Personal Website](https://ettorecandeloro.me)
+### My Personal Website + Curriculum 🌐📃
+👉 [Personal Website](https://ettorecandeloro.me)
 
 #### Technologies I'm learning/using 🛠🧰
 #### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
