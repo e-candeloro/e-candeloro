@@ -48,7 +48,6 @@ Leverage state-of-the-art technologies to create impactful products, while colla
 
 ---
 
-
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=e-candeloro&count_private=true&hide=issues,contribs&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://git-hub-readme-stats-ettores-projects-4b8e7abe.vercel.app/api?username=e-candeloro&count_private=true&hide=issues,contribs&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=e-candeloro&color=blue)
