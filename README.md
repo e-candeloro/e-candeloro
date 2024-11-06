@@ -1,6 +1,6 @@
 ### Hi, I'm Ettore 👋
 
-- 👨‍🔬 **Research Fellow in AI Medical Imaging** at [AImageLab](https://aimagelab.ing.unimore.it/imagelab/), University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
+- 👨‍🔬 **Ph.D. student in AI Safety and AI applied to Medical Imaging** at [AImageLab](https://aimagelab.ing.unimore.it/imagelab/), University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
 - 👨‍💻 **Freelance Developer/Consultant** collaborating with various companies in Emilia Romagna, Italy.
 - 👨‍🎓 **M.Sc in Computer Engineering** with a specialization in AI Engineering from [UNIMORE](https://international.unimore.it/).
 - 📚 Currently exploring **AI, Machine Learning, Deep Learning, Data Analysis, Distributed Intelligent Systems, Robotics, IoT, Web Development, User Experience Design, and Entrepreneurship**.
