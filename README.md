@@ -2,7 +2,7 @@
 
 - 👨‍🔬 **Ph.D. student in AI Safety and AI applied to Medical Imaging** at [AImageLab](https://aimagelab.ing.unimore.it/imagelab/), University of Modena and Reggio Emilia ([UNIMORE](https://international.unimore.it/)).
 - 👨‍💻 **Freelance Developer/Consultant** collaborating with various companies in Emilia Romagna, Italy.
-- 🚀 **Co-Founder of [BrainX](https://brainx.netlify.app)**, a non-profit organization to support UNIMORE PhDs and researchers in developing skills for academia, industry, and entrepreneurship.
+- 🚀 **Co-Founder of [BrainX](https://brainxmore.org)**, a non-profit organization to support UNIMORE PhDs and researchers in developing skills for academia, industry, and entrepreneurship.
 - 👨‍🎓 **M.Sc in Computer Engineering** with a specialization in AI Engineering from [UNIMORE](https://international.unimore.it/).
 - 📚 Currently exploring **AI, Machine Learning, Deep Learning, Data Analysis, Distributed Intelligent Systems, Robotics, IoT, Web Development, User Experience Design, and Entrepreneurship**.
 
